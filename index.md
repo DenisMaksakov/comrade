@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Make my first Jekyll page on GitHub
+curlang: en
+title: Home page
+addcss: badges
 ---
 
 Hello Static HTML!
