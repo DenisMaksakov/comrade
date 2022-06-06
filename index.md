@@ -1,6 +1,6 @@
 ---
 layout: default
-curlang: en
+curlang: ru
 title: Home page
 addcss: badges
 ---
