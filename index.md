@@ -67,9 +67,9 @@ denis.unit  # Human
 denis.planet  # Earth
 ```
 > Для получения всех атрибутов содержащихся в классе или в экземпляре класса применяется магический атрибут `__dict__`.
+
 ```python
 Person.__dict__
-
 mappingproxy({
   '__module__': '__main__',  
   'unit': 'Human',   
